@@ -1,0 +1,23 @@
+{
+  "name": "faceta-sass-mixins",
+  "version": "0.0.0",
+  "description": "Reusable Sass mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facetaco/faceta-sass-mixins.git"
+  },
+  "keywords": [
+    "Sass",
+    "mixins"
+  ],
+  "author": "Terry Acker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facetaco/faceta-sass-mixins/issues"
+  },
+  "homepage": "https://github.com/facetaco/faceta-sass-mixins#readme"
+}
