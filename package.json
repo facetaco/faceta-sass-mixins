@@ -1,6 +1,6 @@
 {
   "name": "faceta-sass-mixins",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Reusable Sass mixins",
   "main": "index.js",
   "scripts": {
